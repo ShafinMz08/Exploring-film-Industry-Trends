@@ -70,7 +70,7 @@ This project analyzes a comprehensive movie dataset from Kaggle to uncover trend
 
 ## 🌐 Live Dashboard
 
-[![Final Tableau Dashboard](images/dashboard.png)](https://public.tableau.com/views/TMDb_movie_analysis/TMDb?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
+[![Final Tableau Dashboard](https://github.com/ShafinMz08/Exploring-film-Industry-Trends/blob/main/images/dashboard.jpeg)](https://public.tableau.com/views/TMDb_movie_analysis/TMDb?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link)
 
 
 ---
